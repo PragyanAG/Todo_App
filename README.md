@@ -5,7 +5,7 @@ Create directories and subdirectories under the above directory with files and w
 Run below command
 
 
-**node main.js
+node main.js
 
 
 The output will be file name with absolute path having TODO text content.
